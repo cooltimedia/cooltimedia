@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jair Poveda, I created @cooltimedia in 2016.
-- 👀 I’m interested in code.
-- 🌱 I’m currently learning python and django.
+👋 Hi, I’m Jair Poveda from Panama. 
+🧑‍💻  Software Engineer and Entrepreneur. Founder - CEO of Cooltimedia. YLAI 2020 Alumnus 🇺🇸  | Live on Youtube every Thursday @7:30 pm from 🇵🇦
 
 <!---
 cooltimedia/cooltimedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
